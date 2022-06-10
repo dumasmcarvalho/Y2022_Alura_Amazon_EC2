@@ -1,0 +1,1 @@
+# Alura - Deploy no Amazon EC2: alta disponibilidade e escalabilidade de uma aplicação

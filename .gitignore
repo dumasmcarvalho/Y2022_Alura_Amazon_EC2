@@ -1,0 +1,12 @@
+# General
+.vagrant/
+*.csv
+instances.json
+
+# Log Files
+*.log
+
+# SSH Keys
+id_bionic
+*.pub
+*.pem
